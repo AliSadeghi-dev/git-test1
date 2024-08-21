@@ -1,3 +1,8 @@
 body {
   backgroundcolor: red;
 }
+
+h2 {
+  font: size 50px;
+  color: blue;
+}
